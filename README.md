@@ -1,0 +1,2 @@
+# PraktikumSection2_AlterraAcademy
+Version_Control_And_Branch_Management(Git)
